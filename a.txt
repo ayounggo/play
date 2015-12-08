@@ -2,7 +2,7 @@ this if the first line
 add a line in a-branch
 
 common line for editing (modified by a-branch)
-second change by master branch
+i..second change by master branch
 
 add a line by a-branch
 common line for editing (modified by master branch)
