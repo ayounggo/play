@@ -8,6 +8,7 @@ add a line by a-branch
 common line for editing (modified by master branch)
 
 add a line by tmp1/master
+sss
 add a line by tmp/master
 
 anther common line for editing (3rd change by master branch)
